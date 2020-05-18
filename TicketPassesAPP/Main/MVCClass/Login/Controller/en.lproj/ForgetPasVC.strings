@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "8Cb-mm-9Vy"; */
+"8Cb-mm-9Vy.normalTitle" = "determine";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "Hgg-yu-SSP"; */
+"Hgg-yu-SSP.normalTitle" = "get verification code";
+
+/* Class = "UITextField"; placeholder = "请输入手机号码"; ObjectID = "Mfc-gj-hVf"; */
+"Mfc-gj-hVf.placeholder" = "Please enter the phone number";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "dwa-4J-vpE"; */
+"dwa-4J-vpE.placeholder" = "please enter verification code";
+
+/* Class = "UITextField"; placeholder = "请输入新密码"; ObjectID = "oyc-UV-Cf5"; */
+"oyc-UV-Cf5.placeholder" = "Please enter a new password";
+
+/* Class = "UITextField"; placeholder = "请再次输入新密码"; ObjectID = "yk2-FU-VU2"; */
+"yk2-FU-VU2.placeholder" = "Please enter your new password again";

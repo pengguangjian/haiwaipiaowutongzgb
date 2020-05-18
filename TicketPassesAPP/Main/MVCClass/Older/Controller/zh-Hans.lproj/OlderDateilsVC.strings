@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "0u1-Rw-uHX"; */
+"0u1-Rw-uHX.text" = "";
+
+/* Class = "UILabel"; text = "行李名称"; ObjectID = "19c-Sl-p7x"; */
+"19c-Sl-p7x.text" = "行李名称";
+
+/* Class = "UILabel"; text = "下单时间"; ObjectID = "40D-b4-3wg"; */
+"40D-b4-3wg.text" = "下单时间";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "5Ry-aH-ngB"; */
+"5Ry-aH-ngB.text" = "地址";
+
+/* Class = "UILabel"; text = "数量"; ObjectID = "6fc-33-7hd"; */
+"6fc-33-7hd.text" = "";
+
+/* Class = "UILabel"; text = "重庆"; ObjectID = "757-10-taR"; */
+"757-10-taR.text" = "";
+
+/* Class = "UILabel"; text = "寄件人信息"; ObjectID = "7UK-2s-Wp8"; */
+"7UK-2s-Wp8.text" = "寄件人信息";
+
+/* Class = "UILabel"; text = "订单状态"; ObjectID = "89s-Q7-sb5"; */
+"89s-Q7-sb5.text" = "订单状态";
+
+/* Class = "UILabel"; text = "名称"; ObjectID = "9r7-zo-l1k"; */
+"9r7-zo-l1k.text" = "";
+
+/* Class = "UILabel"; text = "收件人信息"; ObjectID = "AOT-rD-KCQ"; */
+"AOT-rD-KCQ.text" = "收件人信息";
+
+/* Class = "UILabel"; text = "重庆"; ObjectID = "BTJ-0h-sN5"; */
+"BTJ-0h-sN5.text" = "";
+
+/* Class = "UILabel"; text = "订单详情"; ObjectID = "C7Z-YI-0cS"; */
+"C7Z-YI-0cS.text" = "订单详情";
+
+/* Class = "UILabel"; text = "名字+电话"; ObjectID = "J2d-Sa-QLf"; */
+"J2d-Sa-QLf.text" = "";
+
+/* Class = "UILabel"; text = "日期"; ObjectID = "Kqp-vx-z2Z"; */
+"Kqp-vx-z2Z.text" = "";
+
+/* Class = "UILabel"; text = "价格"; ObjectID = "Nbz-0C-8On"; */
+"Nbz-0C-8On.text" = "";
+
+/* Class = "UILabel"; text = "订单编号"; ObjectID = "Q2Y-e9-mma"; */
+"Q2Y-e9-mma.text" = "订单编号";
+
+/* Class = "UILabel"; text = "行李体积"; ObjectID = "V3f-q7-W47"; */
+"V3f-q7-W47.text" = "行李体积";
+
+/* Class = "UILabel"; text = "时间"; ObjectID = "acH-nd-vyj"; */
+"acH-nd-vyj.text" = "";
+
+/* Class = "UILabel"; text = "收件人"; ObjectID = "bzv-pY-vMm"; */
+"bzv-pY-vMm.text" = "收件人";
+
+/* Class = "UILabel"; text = "寄件人"; ObjectID = "cag-61-dU8"; */
+"cag-61-dU8.text" = "寄件人";
+
+/* Class = "UILabel"; text = "1234321"; ObjectID = "fMy-Nn-0hd"; */
+"fMy-Nn-0hd.text" = "";
+
+/* Class = "UILabel"; text = "托运日期"; ObjectID = "fpC-oa-wZo"; */
+"fpC-oa-wZo.text" = "托运日期";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "glU-cM-Ivr"; */
+"glU-cM-Ivr.text" = "地址";
+
+/* Class = "UILabel"; text = "名字+电话"; ObjectID = "ie1-KE-Rik"; */
+"ie1-KE-Rik.text" = "";
+
+/* Class = "UILabel"; text = "体积"; ObjectID = "mVJ-6c-Exe"; */
+"mVJ-6c-Exe.text" = "";
+
+/* Class = "UILabel"; text = "重量"; ObjectID = "r7P-1z-lKQ"; */
+"r7P-1z-lKQ.text" = "";
+
+/* Class = "UILabel"; text = "行李重量"; ObjectID = "s1y-Ec-49D"; */
+"s1y-Ec-49D.text" = "行李重量";
+
+/* Class = "UILabel"; text = "行李数量"; ObjectID = "ypo-wh-zCW"; */
+"ypo-wh-zCW.text" = "行李数量";
+
+/* Class = "UILabel"; text = "订单价格"; ObjectID = "zlP-Dh-uSM"; */
+"zlP-Dh-uSM.text" = "订单价格";

@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "修改个人头像"; ObjectID = "1kl-n3-Qnu"; */
+"1kl-n3-Qnu.text" = "Đổi ảnh đại diện";
+
+/* Class = "UILabel"; text = "修改绑定手机号码"; ObjectID = "35X-P1-oeu"; */
+"35X-P1-oeu.text" = "Đổi số điện thoại";
+
+/* Class = "UITextField"; text = "昵称"; ObjectID = "XAy-RU-zJf"; */
+"XAy-RU-zJf.text" = "";
+
+/* Class = "UILabel"; text = "修改昵称"; ObjectID = "odY-sP-vjp"; */
+"odY-sP-vjp.text" = "Đổi tên";
+
+/* Class = "UILabel"; text = "136****6666"; ObjectID = "ur9-4r-Da3"; */
+"ur9-4r-Da3.text" = "";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "Yi8-vT-WPP"; */
+"Yi8-vT-WPP.text" = "Thay đổi mật khẩu";

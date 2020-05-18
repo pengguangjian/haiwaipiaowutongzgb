@@ -1,0 +1,72 @@
+
+/* Class = "UITextField"; placeholder = "请填写kg"; ObjectID = "4Zu-cd-LJ5"; */
+"4Zu-cd-LJ5.placeholder" = "请填写kg";
+
+/* Class = "UILabel"; text = "行李数量"; ObjectID = "70k-Yk-7ca"; */
+"70k-Yk-7ca.text" = "行李数量";
+
+/* Class = "UIButton"; normalTitle = "支付"; ObjectID = "7RI-kB-Oqn"; */
+"7RI-kB-Oqn.normalTitle" = "支付";
+
+/* Class = "UILabel"; text = "重量"; ObjectID = "Awy-p3-sYy"; */
+"Awy-p3-sYy.text" = "重量";
+
+/* Class = "UITextField"; placeholder = "请填写m³"; ObjectID = "EMF-vh-kB7"; */
+"EMF-vh-kB7.placeholder" = "请填写m³";
+
+/* Class = "UILabel"; text = "托运日期"; ObjectID = "FIE-4g-FjP"; */
+"FIE-4g-FjP.text" = "托运日期";
+
+/* Class = "UILabel"; text = "rise"; ObjectID = "MJa-zn-bWF"; */
+"MJa-zn-bWF.text" = "rise";
+
+/* Class = "UILabel"; text = "终"; ObjectID = "WRk-hJ-jn3"; */
+"WRk-hJ-jn3.text" = "终";
+
+/* Class = "UILabel"; text = "请选择发货地址"; ObjectID = "WrB-hl-OGf"; */
+"WrB-hl-OGf.text" = "请选择发货地址";
+
+/* Class = "UILabel"; text = "请选择收货地址"; ObjectID = "X5L-ei-XIx"; */
+"X5L-ei-XIx.text" = "请选择收货地址";
+
+/* Class = "UILabel"; text = "预估总价"; ObjectID = "YWV-d9-Zdc"; */
+"YWV-d9-Zdc.text" = "预估总价：";
+
+/* Class = "UILabel"; text = "两江新区互联网产业园"; ObjectID = "af2-8I-w5y"; */
+"af2-8I-w5y.text" = "";
+
+/* Class = "UILabel"; text = "定金"; ObjectID = "eV0-wf-m6g"; */
+"eV0-wf-m6g.text" = "定金：";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i7C-61-pWq"; */
+"i7C-61-pWq.text" = "Label";
+
+/* Class = "UILabel"; text = "￥6"; ObjectID = "k4S-Bq-IM6"; */
+"k4S-Bq-IM6.text" = "￥6";
+
+/* Class = "UILabel"; text = "重庆市渝北区两江新区互联网产业园3号.."; ObjectID = "lxk-GF-zQY"; */
+"lxk-GF-zQY.text" = "";
+
+/* Class = "UILabel"; text = "王老师    17623356545"; ObjectID = "oEl-Mj-nhD"; */
+"oEl-Mj-nhD.text" = "";
+
+/* Class = "UILabel"; text = "行李名称"; ObjectID = "pma-gm-D0S"; */
+"pma-gm-D0S.text" = "行李名称";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "rT5-Fi-aw6"; */
+"rT5-Fi-aw6.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "体积"; ObjectID = "sFA-Y3-VvA"; */
+"sFA-Y3-VvA.text" = "体积";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "suS-gm-i4n"; */
+"suS-gm-i4n.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "张老师    13623332525"; ObjectID = "vjN-M2-lcR"; */
+"vjN-M2-lcR.text" = "";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "xYf-i1-eVH"; */
+"xYf-i1-eVH.text" = "1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xih-Mq-GNc"; */
+"xih-Mq-GNc.text" = "Label";

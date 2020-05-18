@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "请输入新的手机号码"; ObjectID = "AUs-KT-AnB"; */
+"AUs-KT-AnB.placeholder" = "请输入新的手机号码";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "Ni3-Qf-PRj"; */
+"Ni3-Qf-PRj.placeholder" = "请输入验证码";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "Oii-Q6-L6s"; */
+"Oii-Q6-L6s.normalTitle" = "获取验证码";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "aUb-Pf-DET"; */
+"aUb-Pf-DET.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "修改手机号码"; ObjectID = "drg-sx-iuz"; */
+"drg-sx-iuz.text" = "修改手机号码";

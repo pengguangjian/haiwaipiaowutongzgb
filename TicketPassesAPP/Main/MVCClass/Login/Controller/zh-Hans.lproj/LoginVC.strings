@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "中文"; ObjectID = "2Y5-97-J2G"; */
+"2Y5-97-J2G.normalTitle" = "中文";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "3C7-NR-NGG"; */
+"3C7-NR-NGG.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Tiếng Việt"; ObjectID = "8P3-O5-sGu"; */
+"8P3-O5-sGu.normalTitle" = "Tiếng Việt";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "AB1-PO-YwA"; */
+"AB1-PO-YwA.normalTitle" = "忘记密码";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "Lv9-TG-fFY"; */
+"Lv9-TG-fFY.normalTitle" = "获取验证码";
+
+/* Class = "UIButton"; normalTitle = "立即注册"; ObjectID = "O1m-1u-35B"; */
+"O1m-1u-35B.normalTitle" = "立即注册";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "Q4v-eV-teX"; */
+"Q4v-eV-teX.text" = "or";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "VUO-UB-S1W"; */
+"VUO-UB-S1W.normalTitle" = "登录";
+
+/* Class = "UILabel"; text = "还没有账号？"; ObjectID = "e8m-wj-IM7"; */
+"e8m-wj-IM7.text" = "还没有账号？";
+
+/* Class = "UILabel"; text = "登录"; ObjectID = "h2n-dG-vfE"; */
+"h2n-dG-vfE.text" = "登录";
+
+/* Class = "UIButton"; normalTitle = "手机号快捷登录"; ObjectID = "xHr-hR-bbK"; */
+"xHr-hR-bbK.normalTitle" = "手机号快捷登录";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "zWj-h8-KUF"; */
+"zWj-h8-KUF.placeholder" = "请输入验证码";

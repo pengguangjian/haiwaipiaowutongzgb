@@ -1,0 +1,17 @@
+/* 
+  InfoPlist.strings
+  TicketPassesAPP
+
+  Created by xiaoshiheng on 2019/8/29.
+  Copyright © 2019 macbook. All rights reserved.
+*/
+/*"CFBundleDisplayName" = "VÉ RẺ NAM BẮC THÔNG";
+"FacebookDisplayName"="VÉ RẺ NAM BẮC THÔNG";
+"NSCameraUsageDescription"="Cần truy cập máy ảnh của bạn để bạn có thể sử dụng dịch vụ avatar tải lên bình thường";
+"NSPhotoLibraryAddUsageDescription"="Cần truy cập album ảnh của bạn để bạn có thể sử dụng dịch vụ lưu ảnh bình thường";
+"NSPhotoLibraryUsageDescription"="Cần truy cập album ảnh của bạn để bạn có thể sử dụng dịch vụ avatar tải lên bình thường";*/
+"CFBundleDisplayName" = "海外票务通";
+"FacebookDisplayName" = "海外票务通";
+"NSCameraUsageDescription"="需要访问你的相机，以便您正常使用上传头像服务";
+"NSPhotoLibraryAddUsageDescription"="需要访问你的相册，以便您正常使用保存图片服务";
+"NSPhotoLibraryUsageDescription"="需要访问你的相册，以便您正常使用上传头像服务";

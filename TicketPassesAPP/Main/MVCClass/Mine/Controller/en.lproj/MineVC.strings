@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "我的"; ObjectID = "DPJ-na-jHf"; */
+"DPJ-na-jHf.text" = "My account";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "DUL-GU-p9o"; */
+"DUL-GU-p9o.text" = "";
+
+/* Class = "UILabel"; text = "iPhone"; ObjectID = "R3Z-UV-b1F"; */
+"R3Z-UV-b1F.text" = "";
+
+/* Class = "UILabel"; text = "关于我们"; ObjectID = "VRV-3g-Acw"; */
+"VRV-3g-Acw.text" = "About us";
+
+/* Class = "UILabel"; text = "客服电话"; ObjectID = "mO6-BE-LLh"; */
+"mO6-BE-LLh.text" = "Customer service number";
+
+/* Class = "UILabel"; text = "分享"; ObjectID = "mOV-29-Oi5"; */
+"mOV-29-Oi5.text" = "Share";
+
+/* Class = "UILabel"; text = "协议及声明"; ObjectID = "wcS-yh-Qlo"; */
+"wcS-yh-Qlo.text" = "Agreements and Statements";
+
+/* Class = "UILabel"; text = "个人资料"; ObjectID = "yw6-G5-hb0"; */
+"yw6-G5-hb0.text" = "Personal information";

@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9zh-N1-9Mc"; */
+"9zh-N1-9Mc.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pbu-1o-E82"; */
+"Pbu-1o-E82.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QbK-nu-6gv"; */
+"QbK-nu-6gv.text" = "";
+
+/* Class = "UILabel"; text = "乘客"; ObjectID = "dUF-yM-5DE"; */
+"dUF-yM-5DE.text" = "乘客";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "iDS-Ch-sBi"; */
+"iDS-Ch-sBi.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kvO-Pz-dUf"; */
+"kvO-Pz-dUf.text" = "";
+
+/* Class = "UIButton"; normalTitle = "支付"; ObjectID = "lld-vj-xAd"; */
+"lld-vj-xAd.normalTitle" = "支付";
+
+/* Class = "UILabel"; text = "订单金额"; ObjectID = "pbF-HW-TJB"; */
+"pbF-HW-TJB.text" = "订单金额";
+
+/* Class = "UILabel"; text = "选择乘客数量"; ObjectID = "qPr-bP-P9W"; */
+"qPr-bP-P9W.text" = "选择乘客数量";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "vP7-IR-aO4"; */
+"vP7-IR-aO4.normalTitle" = "";

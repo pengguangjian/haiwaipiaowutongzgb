@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EnsurePayVC">
+            <connections>
+                <outlet property="bgImageView" destination="fDL-rq-IFU" id="VBo-QM-oGC"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="fDL-rq-IFU">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CuG-vx-EKW">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="CuG-vx-EKW" firstAttribute="trailing" secondItem="Q5M-cg-NOt" secondAttribute="trailing" id="9TS-31-iZ5"/>
+                <constraint firstItem="CuG-vx-EKW" firstAttribute="leading" secondItem="Q5M-cg-NOt" secondAttribute="leading" id="Ahd-u0-xhS"/>
+                <constraint firstItem="CuG-vx-EKW" firstAttribute="bottom" secondItem="Q5M-cg-NOt" secondAttribute="bottom" id="M3A-lt-u6v"/>
+                <constraint firstItem="fDL-rq-IFU" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="QFf-0w-ocQ"/>
+                <constraint firstItem="fDL-rq-IFU" firstAttribute="trailing" secondItem="Q5M-cg-NOt" secondAttribute="trailing" id="WxX-qC-Gn7"/>
+                <constraint firstItem="CuG-vx-EKW" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="dhc-bd-5LN"/>
+                <constraint firstItem="fDL-rq-IFU" firstAttribute="leading" secondItem="Q5M-cg-NOt" secondAttribute="leading" id="gjB-gK-pLb"/>
+                <constraint firstItem="fDL-rq-IFU" firstAttribute="bottom" secondItem="Q5M-cg-NOt" secondAttribute="bottom" id="hrv-cB-T5c"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="Q5M-cg-NOt"/>
+            <point key="canvasLocation" x="133.59999999999999" y="154.27286356821591"/>
+        </view>
+    </objects>
+</document>

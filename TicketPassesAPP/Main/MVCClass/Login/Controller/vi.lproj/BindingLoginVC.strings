@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "请再次输入密码"; ObjectID = "2u9-rn-ieQ"; */
+"2u9-rn-ieQ.placeholder" = "Vui lòng nhập lại mật khẩu của bạn";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "ANO-Ia-Lct"; */
+"ANO-Ia-Lct.normalTitle" = "Nhận mã xác minh";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "H8a-ar-1R8"; */
+"H8a-ar-1R8.normalTitle" = "Xác nhận";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "KCV-M3-ESp"; */
+"KCV-M3-ESp.placeholder" = "Vui lòng nhập mã xác minh";
+
+/* Class = "UILabel"; text = "绑定手机"; ObjectID = "P3O-EI-fXe"; */
+"P3O-EI-fXe.text" = "Điện thoại đóng sách";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "k1y-ns-BvM"; */
+"k1y-ns-BvM.placeholder" = "Nhập mật khẩu";
+
+/* Class = "UITextField"; placeholder = "请输入新的手机号码"; ObjectID = "pyr-Qp-Q8i"; */
+"pyr-Qp-Q8i.placeholder" = "Nhập số điện thoại mới";

@@ -1,0 +1,126 @@
+//
+//  429Vietnam.pch
+//  429Vietnam
+//
+//  Created by macbook on 2019/6/25.
+//  Copyright © 2019年 macbook. All rights reserved.
+//
+
+#ifndef _29Vietnam_pch
+#define _29Vietnam_pch
+
+/**pod 导的第三方库**/
+#import <SGPagingView/SGPagingView.h>
+#import <MJRefresh/MJRefresh.h>
+#import <MJExtension/MJExtension.h>
+#import <Masonry/Masonry.h>
+#import <DZNEmptyDataSet/UIScrollView+EmptyDataSet.h>
+#import <SDWebImage/SDWebImage.h>
+#import <Reachability/Reachability.h>
+#import <SDCycleScrollView/SDCycleScrollView.h>
+#import <UMCommon/UMCommon.h>
+#import <UMShare/UMShare.h>
+#import <ZaloSDK/ZaloSDK.h>
+
+#import <AVFoundation/AVFoundation.h>
+
+//#import <M>
+/**第三方库**/
+#import "Library.h"
+/** 配置 **/
+/** 宏  **/
+#import "Configure.h"
+#import "CommonlyUsed.h"
+#import "UserModel.h"
+#import "UserInfo.h"
+/** 工具 + 扩展 **/
+#import "XBUtils.h"
+#import "UIView+XBKit.h"
+#import "NSBundle+DAUtils.h"
+#import "NSURL+SDImage.h"
+#import "UIAlertController+XBKit.h"
+#import "UIViewController+XBKit.h"
+#import "UIScrollView+XBRefresh.h"
+#import "UIView+YBInputControl.h"
+#import "UITextView+CQCategory.h"
+#import "NSMutableAttributedString+XBKit.h"
+#import "NSString+XBKit.h"
+#import "UIButton+HQCustomIcon.h"
+#import "NSDate+commonuse.h"
+/** 请求 **/
+#import "AFHTTP+Login.h"
+#import "AFHTTP+News.h"
+#import "AFHTTP+User.h"
+#import "AFHTTP+News.h"
+#import "AFHTTP+Order.h"
+#import "AFHTTP+Address.h"
+#import "AFHTTP+Home.h"
+/** 基础类 **/
+#import "Base.h"
+//项目内的代码文件
+//-------------  Model ---------------
+//-------------  View ---------------
+//-------------  Controller ---------------
+#import "BaseNavigationController.h"
+#import "BaseViewController.h"
+#import "BaseTabBarVC.h"
+#import "LoginVC.h"
+#import "RegisteredViewController.h"
+#import "WebViewController.h"
+#import "PaymentWebViewController.h"
+
+
+//--------------
+
+#import "WXApiManager.h"
+#import "AFNetworking.h"
+#import "HttpManager.h"
+#import "ResponseData.h"
+#import "SVProgressHUD.h"
+#import "MSUtil.h"
+#import "Util.h"
+#import "UIButton+XSZ_FixMultiClick.h"
+#import "UIButton+Gradient.h"
+#import "UIImageView+WebCache.h"
+#import "UIViewController+PopGestureRecognizer.h"
+#import "NSString+Extension.h"
+
+#define SUCCESS @"10000"
+#define UNLOGIN @"UNLOGIN"
+
+
+
+
+#define HEXCOLOR(col) [MSUtil colorWithHexString:col]
+
+
+#define DEFAULTCOLOR1 RGBA(89, 176, 91, 1.0f)
+#define DEFAULTCOLOR2 HEXCOLOR(@"1e785a")
+
+#define ORANGECOLOR HEXCOLOR(@"ffae00")
+
+#define SEPARATORCOLOR HEXCOLOR(@"eaeaea")
+
+#define COL1 HEXCOLOR(@"1a1a1a")
+#define COL2 HEXCOLOR(@"717e7d")
+#define COL3 HEXCOLOR(@"b9c3c2")
+#define COL4 RGBA(222, 222, 222, 1.0f)
+#define COL5 RGBA(252, 252, 254, 1.0f)
+#define COL6 RGBA(87, 92, 122, 1.0f)
+#define COL7 RGBA(78, 82, 105, 1.0f)
+#define COL8 RGBA(244, 244, 244, 1.0f)
+#define COL9 RGBA(40, 180, 73, 1.0f)
+#define COL10 RGBA(174, 178, 211, 1.0f)
+#define COL11 RGBA(230, 180, 16, 1.0f)
+
+#define DEVICE_Width                    ([[UIScreen mainScreen] bounds].size.width)
+#define DEVICE_Height                   ([[UIScreen mainScreen] bounds].size.height)
+
+#define SafeAreaTopHeight (DEVICE_Height >= 812.0 ? 88 : 64)
+#define SafeAreaBottomHomeHeight (DEVICE_Height >= 812.0 ? 34 : 0)
+
+
+#define ONE_PAGE  10
+
+
+#endif /* _29Vietnam_pch */

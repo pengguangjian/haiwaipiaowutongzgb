@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "11B-mB-exC"; */
+"11B-mB-exC.normalTitle" = "Safe";
+
+/* Class = "UITextField"; placeholder = "请输入地址"; ObjectID = "6sE-AZ-19u"; */
+"6sE-AZ-19u.placeholder" = "Please enter your address.";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "Ba8-Id-CV3"; */
+"Ba8-Id-CV3.text" = "Full name";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "Mxm-f1-QFa"; */
+"Mxm-f1-QFa.text" = "Address";
+
+/* Class = "UILabel"; text = "手机号"; ObjectID = "fsu-0I-Vlq"; */
+"fsu-0I-Vlq.text" = "Phone number";
+
+/* Class = "UITextField"; placeholder = "请输入姓名"; ObjectID = "ivj-Lp-K2n"; */
+"ivj-Lp-K2n.placeholder" = "Please enter your full name";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "mH3-Bv-hiU"; */
+"mH3-Bv-hiU.placeholder" = "Please enter your Phone number";

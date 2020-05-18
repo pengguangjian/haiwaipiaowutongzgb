@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "支付"; ObjectID = "GaL-wh-1dl"; */
+"GaL-wh-1dl.normalTitle" = "支付";
+
+/* Class = "UILabel"; text = "支付方式"; ObjectID = "HgP-Rr-mm7"; */
+"HgP-Rr-mm7.text" = "支付方式";
+
+/* Class = "UILabel"; text = "微信支付"; ObjectID = "Xs8-7Y-lDN"; */
+"Xs8-7Y-lDN.text" = "微信支付";
+
+/* Class = "UILabel"; text = "其他支付"; ObjectID = "a3I-zj-LfR"; */
+"a3I-zj-LfR.text" = "其他支付";
+
+/* Class = "UILabel"; text = "选择支付渠道"; ObjectID = "m6r-Cd-Vjh"; */
+"m6r-Cd-Vjh.text" = "选择支付渠道";
+
+/* Class = "UILabel"; text = "支付宝"; ObjectID = "tKr-lT-uX4"; */
+"tKr-lT-uX4.text" = "支付宝";
+
+/* Class = "UILabel"; text = "订单总价为¥500  定金¥50  尾款¥450"; ObjectID = "uqy-tm-bxd"; */
+"uqy-tm-bxd.text" = "订单总价为¥500  定金¥50  尾款¥450";

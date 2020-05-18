@@ -1,0 +1,97 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - DZNEmptyDataSet (1.8.1)
+  - IQKeyboardManager (6.3.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.17)
+  - MJRefresh (3.2.0)
+  - Reachability (3.2)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.0.3):
+    - SDWebImage/Core (= 5.0.3)
+  - SDWebImage/Core (5.0.3)
+  - SGPagingView (1.6.1)
+  - UMCCommon (2.0.1)
+  - UMCSecurityPlugins (1.0.6)
+  - UMCShare/Core (6.9.5):
+    - UMCCommon
+  - UMCShare/Social/Facebook (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - ZaloSDK (2.3.0921.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - DZNEmptyDataSet
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - Reachability (~> 3.2)
+  - SDCycleScrollView
+  - SDWebImage
+  - SGPagingView (~> 1.6.0)
+  - UMCCommon
+  - UMCSecurityPlugins
+  - UMCShare/Social/Facebook
+  - UMCShare/UI
+  - ZaloSDK
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
+    - DZNEmptyDataSet
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - Reachability
+    - SDCycleScrollView
+    - SDWebImage
+    - SGPagingView
+    - UMCCommon
+    - UMCSecurityPlugins
+    - UMCShare
+    - ZaloSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  IQKeyboardManager: 2ca9d64893247556f53523dcd8d78641f0ba7c23
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 74ec83124a68891619fb7ba9c5c811bbf1691076
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: d4f87d7d36c8a4d9f9459dc282e0caa057fdf935
+  SGPagingView: 11753f76f2fa9f306d152f33e833f735c0751def
+  UMCCommon: 0263a057a2e1ae1da4c8308541e56904a493ce13
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  UMCShare: 552b29753f1b4da87b51d96545ed19e6263df397
+  ZaloSDK: c2d703d5b9e3237e2f7cfd0b8e2b343434a4d0d9
+
+PODFILE CHECKSUM: 96ff11a1fdcfaec45eb8666e8c1ee098f640ed1f
+
+COCOAPODS: 1.9.1

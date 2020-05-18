@@ -1,0 +1,147 @@
+/* 
+  Localizable.strings
+  TicketPassesAPP
+
+  Created by 肖世恒 on 2019/7/10.
+  Copyright © 2019 macbook. All rights reserved.
+*/
+
+/**工具类**/
+//"加载中" = "Name";
+"加载中" = "加载中";
+
+/**登录界面**/
+"绑定手机" = "Điện thoại đóng sách";
+"请输入手机号码" = "Nhập số điện thoại";
+"请输入验证码" = "Nhập mã xác nhận";
+"手机号快捷登录" =  "Số điện thoại di động đăng nhập nhanh";
+"密码登录" = "Mật khẩu đăng nhập";
+"请输入密码" = "Nhập mật khẩu";
+"请再次输入密码" = "Vui lòng nhập lại mật khẩu của bạn";
+"两次密码不一致" = "Hai mật khẩu không nhất quán";
+"忘记密码" = "Quên mật khẩu";
+"退出登录" = "Thoát ra";
+"取消登录" = "Hủy đăng nhập";
+"修改成功" =  "Đã sửa đổi thành công";
+"您还没用同意用户注册协议" = "Bạn chưa đồng ý với Thỏa thuận đăng ký người dùng.";
+
+/**TabBar界面**/
+"首页" = "Trang chủ";
+"物流" = "Vận chuyển";
+"订单" = "Đơn hàng";
+"商旅" = "Thương mại Lữ hành";
+"我的" = "Trang cá nhân";
+
+//首页
+"预定须知"="Thông báo đặt phòng";
+"立即订票"="Đặt ngay";
+"取消"="Hủy bỏ";
+"于" = "Vũ";
+"张" = "Trương";
+"年"="năm";
+"月"="tháng";
+"日"="Ngày";
+"今日" = "Hôm nay";
+"确认" = "Xác nhận";
+"请选择出发日期" = "Ngày khởi hành";
+"请选择始发地" = "Hãy chọn nơi xuất phát.";
+"请选择目的地" = "Xin hãy chọn địa điểm.";
+"始发地于目的地相同" = "Bắt đầu từ cùng một đích";
+"周天" = "Chủ";
+"周日" = "Chủ";
+"周一" = "Thứ Hai";
+"周二" = "Thứ Ba";
+"周三" = "Thứ Tư";
+"周四" = "Thứ";
+"周五" = "Thứ";
+"周六" = "Bảy";
+"1月" = "tháng 1";
+"2月" = "tháng 2";
+"3月" = "tháng 3";
+"4月" = "tháng 4";
+"5月" = "tháng 5";
+"6月" = "tháng 6";
+"7月" = "tháng 7";
+"8月" = "tháng 8";
+"9月" = "tháng 9";
+"10月" = "tháng 10";
+"11月" = "tháng 11";
+"12月" = "tháng 12";
+"出发" = "Đặt ra";
+"票价" = "Giá vé";
+"热门" = "Bình";
+"选择城市" = "Chọn thành phố";
+
+/**个人资料界面**/
+"个人资料" = "Thông tin cá nhân";
+"保存" = "Lưu";
+"修改绑定手机号码" = "Thay đổi số điện thoại";
+"我的分享" = "Chia sẻ của tôi";
+"关于我们" = "Về chúng tôi";
+"协议声明" = "Điều khoản và tuyên bố";
+"修改密码" = "Thay đổi mật khẩu";
+"分享" = "Chia";
+
+//l物流界面
+"地址列表" = "Danh sách địa chỉ";
+"编辑" = "Chỉnh sửa";
+"请选择发货地址" = "Hãy chọn địa chỉ chuyển hàng.";
+"请选择收货地址" = "Hãy chọn địa chỉ tiếp nhận.";
+"填写货物的名称，最多不超过50字" = "Mời nhập tên hàng không quá 50 chữ";
+"请输入昵称" = "Hãy nhập một biệt danh";
+
+
+"起"="lên";
+"终"="cuối";
+"删除" = "xóa";
+"编辑地址" = "Sửa địa chỉ";
+"新建地址" = "Địa chỉ mới";
+"请输入姓名" = "Hãy nhập tên của bạn.";
+"请输入手机号码" = "Nhập số điện thoại";
+"请输入地址" = "Hãy nhập địa chỉ.";
+"删除成功" = "Xóa thành công";
+"添加地址" = "Thêm địa chỉ";
+"请选择托运日期"= "Hãy chọn ngày vận chuyển.";
+"发货地址与收货地址相同" = "Địa chỉ chuyển hàng giống với địa chỉ nhận hàng.";
+"请输入行李数量" = "Xin hãy ghi lại số hành lý.";
+"请输入行李名称" = "Xin hãy ghi tên hành lý.";
+"请输入行李体积" = "Xin hãy nhập số hành lý.";
+"请输入行李重量" = "Xin hãy ghi vào trọng lượng hành lý.";
+"请等待计算" = "Hãy đợi tính toán";
+
+
+//订单列表
+"订票订单" = "Đặt vé";
+"物流订单" = "Đơn vận chuyển";
+"待完成" = "Chờ hoàn thành";
+"已支付" = "Trả";
+"待支付" = "Được trả";
+"已完成" = "Đã hoàn thành";
+"已取消" = "Đã hủy";
+
+"退票退款" = "Trả";
+"退票说明" = "Thông báo trả vé";
+"确认退款" = "Xác nhận hoàn tiền";
+"共" = "";
+"人" = "Người";
+"说明" = "Giải thích";
+"申请成功" = "Ứng dụng thành công";
+"温馨提示：请提前准时到达始发站" = "Gợi ý: Hãy đến ga khởi hành đúng giờ và trước";
+"发车" = "Chạy";
+"此订单已取消" = "Lệnh này đã bị hủy";
+"此订单已完成" = "Lệnh này đã hoàn thành";
+
+"待支付尾款" =  "Tiền chi trả";
+"未支付" = "Chưa trả";
+"收" = "thu thập";
+"订单详情" =  "Đơn vị trật tự";
+"订单号" = "Số Thứ tự";
+"订单总价为" = "The total price of the order is";
+"定金" = "Tiền đặt cọc :";
+"尾款" = "Tiền đuôi";
+
+
+
+
+
+

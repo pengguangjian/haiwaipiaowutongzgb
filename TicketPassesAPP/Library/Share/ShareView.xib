@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ShareView">
+            <rect key="frame" x="0.0" y="0.0" width="432" height="418"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6S8-nL-LAy">
+                    <rect key="frame" x="0.0" y="44" width="432" height="340"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mmh-6G-L58">
+                    <rect key="frame" x="0.0" y="304" width="432" height="80"/>
+                    <subviews>
+                        <button opaque="NO" tag="101" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5sY-qb-Mcp">
+                            <rect key="frame" x="25" y="10" width="178.5" height="70"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <state key="normal" title="faceBook" image="faceBook">
+                                <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="clickbut:" destination="iN0-l3-epB" eventType="touchUpInside" id="ReB-BZ-6ka"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="102" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="miA-VR-s9x">
+                            <rect key="frame" x="228.5" y="10" width="178.5" height="70"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <state key="normal" title="zalo" image="zalo">
+                                <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="clickbut:" destination="iN0-l3-epB" eventType="touchUpInside" id="m3C-rg-Eoe"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="miA-VR-s9x" secondAttribute="trailing" constant="25" id="BCe-n7-5Ha"/>
+                        <constraint firstAttribute="height" constant="80" id="O8L-e6-43e"/>
+                        <constraint firstItem="miA-VR-s9x" firstAttribute="width" secondItem="5sY-qb-Mcp" secondAttribute="width" id="ONa-NY-aRo"/>
+                        <constraint firstItem="miA-VR-s9x" firstAttribute="bottom" secondItem="5sY-qb-Mcp" secondAttribute="bottom" id="XGr-Tt-GhN"/>
+                        <constraint firstItem="miA-VR-s9x" firstAttribute="top" secondItem="5sY-qb-Mcp" secondAttribute="top" id="elX-yv-rba"/>
+                        <constraint firstItem="5sY-qb-Mcp" firstAttribute="leading" secondItem="mmh-6G-L58" secondAttribute="leading" constant="25" id="fOp-7e-5Vs"/>
+                        <constraint firstAttribute="bottom" secondItem="5sY-qb-Mcp" secondAttribute="bottom" id="gVq-WP-JbS"/>
+                        <constraint firstItem="miA-VR-s9x" firstAttribute="leading" secondItem="5sY-qb-Mcp" secondAttribute="trailing" constant="25" id="nXw-D5-Xxw"/>
+                        <constraint firstItem="5sY-qb-Mcp" firstAttribute="top" secondItem="mmh-6G-L58" secondAttribute="top" constant="10" id="r2J-MY-ckx"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="6S8-nL-LAy" secondAttribute="bottom" id="7zt-3u-YOI"/>
+                <constraint firstItem="mmh-6G-L58" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="STq-jo-BuU"/>
+                <constraint firstItem="6S8-nL-LAy" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="Ust-87-zuN"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="6S8-nL-LAy" secondAttribute="trailing" id="XC3-Pz-v2v"/>
+                <constraint firstItem="6S8-nL-LAy" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="vrA-XW-e9m"/>
+                <constraint firstItem="mmh-6G-L58" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="xom-iu-hgx"/>
+                <constraint firstItem="mmh-6G-L58" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="zFN-BI-zSm"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="but1" destination="5sY-qb-Mcp" id="Qen-ha-eJb"/>
+                <outlet property="but3" destination="miA-VR-s9x" id="vB1-b1-nmQ"/>
+                <outlet property="mTableBaseView" destination="6S8-nL-LAy" id="Phk-VK-UvY"/>
+                <outlet property="mView" destination="mmh-6G-L58" id="6uc-Sw-xKw"/>
+            </connections>
+            <point key="canvasLocation" x="149.27536231884059" y="95.089285714285708"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="faceBook" width="36" height="36"/>
+        <image name="zalo" width="36" height="36"/>
+    </resources>
+</document>

@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "确认退款"; ObjectID = "1jk-P5-qRk"; */
+"1jk-P5-qRk.normalTitle" = "Xác nhận hoàn tiền";
+
+/* Class = "UILabel"; text = "车票金额"; ObjectID = "6UJ-T3-Xm4"; */
+"6UJ-T3-Xm4.text" = "Giá vé";
+
+/* Class = "UILabel"; text = "预计手续费"; ObjectID = "CAk-fh-QRF"; */
+"CAk-fh-QRF.text" = "Phụ đề xử lý";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "CIm-kx-gWN"; */
+"CIm-kx-gWN.normalTitle" = "hủy";
+
+/* Class = "UILabel"; text = "￥100"; ObjectID = "DJi-Nc-Vd7"; */
+"DJi-Nc-Vd7.text" = "";
+
+/* Class = "UILabel"; text = "预计退款金额"; ObjectID = "E1H-In-2RO"; */
+"E1H-In-2RO.text" = "Số lần thử lại:";
+
+/* Class = "UILabel"; text = "说明"; ObjectID = "Pwy-qs-8WA"; */
+"Pwy-qs-8WA.text" = "Giải thích";
+
+/* Class = "UILabel"; text = "共2人"; ObjectID = "RpK-Yb-rEz"; */
+"RpK-Yb-rEz.text" = "";
+
+/* Class = "UILabel"; text = "￥50"; ObjectID = "gaJ-tH-UU4"; */
+"gaJ-tH-UU4.text" = "";
+
+/* Class = "UILabel"; text = "￥100"; ObjectID = "m6R-AZ-Ctj"; */
+"m6R-AZ-Ctj.text" = "";

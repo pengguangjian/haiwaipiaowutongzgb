@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "将二维码保存为图片分享给好友吧"; ObjectID = "4g7-LT-xG7"; */
+"4g7-LT-xG7.text" = "Lưu mã QR thành ảnh và chia sẻ tới bạn bè";
+
+/* Class = "UILabel"; text = "分享二维码"; ObjectID = "DfV-iJ-a8w"; */
+"DfV-iJ-a8w.text" = "Chia sẻ mã QR";
+
+/* Class = "UIButton"; normalTitle = "保存为图片"; ObjectID = "T4G-W5-WXf"; */
+"T4G-W5-WXf.normalTitle" = "Lưu thành ảnh";
